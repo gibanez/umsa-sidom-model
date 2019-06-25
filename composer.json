@@ -1,0 +1,11 @@
+{
+    "name": "umsa/sidom-models",
+    "require": {
+        "illuminate/database": "^5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "UMSA\\SidomModel\\": "src"
+        }
+    }
+}
